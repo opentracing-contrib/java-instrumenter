@@ -577,7 +577,6 @@ For the development of <ins>[Integration Rules](#64-integration-rule)</ins>, ple
 | Java Thread [`java.lang.Thread`] | [`thread`][thread] | 1.0 | 11 |
 | HttpURLConnection [`java.net.HttpURLConnection`] | [`httpurlconnection`][httpurlconnection] | 1.1 | 11 |
 | [JAX-RS Client](https://github.com/opentracing-contrib/java-jaxrs) | [`jax-rs`][jaxrs] | 2.0 | LATEST |
-| [Jedis Client](https://github.com/opentracing-contrib/java-redis-client/tree/master/opentracing-redis-jedis) | [`jedis`][jedis] | 2.7.0 | 3.1.0 |
 | [Kafka Client](https://github.com/opentracing-contrib/java-kafka-client) | [`kafka:client`][kafka-client] | 1.1.0 | LATEST |
 | [Kafka Streams](https://github.com/opentracing-contrib/java-kafka-client) | [`kafka:streams`][kafka-streams] | 1.1.0 | LATEST |
 | [Lettuce Client](https://github.com/opentracing-contrib/java-redis-client/tree/master/opentracing-redis-lettuce) | [`lettuce`][lettuce] | 5.0.0.RELEASE | LATEST |
@@ -593,6 +592,7 @@ For the development of <ins>[Integration Rules](#64-integration-rule)</ins>, ple
 | Pulsar Functions <br>&nbsp; | [`pulsar-functions`<br><sup>(configurable)</sup>][pulsar-functions] | 2.2.0<br>&nbsp; | **FIXME**<br>&nbsp; |
 | [RabbitMQ Client](https://github.com/opentracing-contrib/java-rabbitmq-client) | [`rabbitmq:client`][rabbitmq-client] | 5.0.0 | LATEST |
 | [Reactor](https://github.com/opentracing-contrib/java-reactor) | [`reactor`][reactor] | 3.2.3.RELEASE | LATEST |
+| [Redis Clients](https://github.com/opentracing-contrib/java-redis-client) | [`jedis`][jedis] | 2.7.0 | LATEST |
 | [Redisson](https://github.com/opentracing-contrib/java-redis-client/tree/master/opentracing-redis-redisson) | [`redisson`][redisson] | 3.11.0 | 3.11.5 |
 | [RxJava](https://github.com/opentracing-contrib/java-rxjava) | [`rxjava:2`][rxjava-2] | 2.1.0 | LATEST |
 | | [`rxjava:3`][rxjava-3] | 3.0.0 | LATEST |
